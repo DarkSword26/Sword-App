@@ -65,7 +65,7 @@ You can:
 This allows users to test apps before full installation.
 
 
-# What You Can Do
+## What You Can Do
 
 With Darksword, you can:
 
@@ -74,17 +74,17 @@ With Darksword, you can:
 - Access tweaks and system tools
 - Customize iOS without deep system modification
 
-# Why Choose Darksword?
+## Why Choose Darksword?
 
 ## Easy Setup
 
 Simple installation process for beginners and advanced users.
 
-## No Computer Needed
+### No Computer Needed
 
 Everything works directly on your iPhone or iPad.
 
-## More Customization
+### More Customization
 
 Install themes, tweaks, and apps not available in the App Store.
 
@@ -92,7 +92,7 @@ Install themes, tweaks, and apps not available in the App Store.
 
 Uses a semi-jailbreak method without heavy system modifications.
 
-# Safety Information
+### Safety Information
 
 Darksword follows a non-invasive customization method compared to traditional root-level jailbreaks.
 
