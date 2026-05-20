@@ -1,4 +1,4 @@
-# ⚔️ Darksword Exploit for iOS 26
+# ⚔️ Darksword Exploit for iOS 26 - iOS 26.5
 
 A modern Darksword Exploit jailbreak solution for **iOS 26 – iOS 26.5** devices.
 
