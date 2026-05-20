@@ -1,6 +1,6 @@
 # ⚔️ Darksword Exploit for iOS 26
 
-A modern online jailbreak solution for **iOS 26 – iOS 26.5** devices.
+A modern Darksword Exploit jailbreak solution for **iOS 26 – iOS 26.5** devices.
 
 Darksword allows users to install jailbreak apps, tweaks, themes, and customization tools with a simple and lightweight setup process.
 
