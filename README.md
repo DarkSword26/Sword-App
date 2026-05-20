@@ -31,7 +31,7 @@ Unlike traditional jailbreaks, Darksword uses a profile-based method, making it 
 
 ## Step 1 — Install Darksword
 
-1. Download the zJailbreak profile
+1. Download the zJailbreak App (https://install.zjailbreak.store/download/pro/)
 2. Open the **Settings** app and install the profile
 3. Launch the zJailbreak store
 4. Search for **Darksword**
