@@ -6,9 +6,7 @@ Darksword allows users to install jailbreak apps, tweaks, themes, and customizat
 
 Unlike traditional jailbreaks, Darksword uses a profile-based method, making it easier and safer for many users.
 
-
-<img width="1174" height="822" alt="Darksword-App" src="https://github.com/user-attachments/assets/ac1652b4-793e-4e43-bca8-28b16b45ed63" />
-
+<img width="750" height="525" alt="darksword-app-screenshot" src="https://github.com/user-attachments/assets/5f858af5-1cb3-435c-9dbf-c43c87cd7569" />
 
 
 # Features
