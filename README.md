@@ -88,7 +88,7 @@ Everything works directly on your iPhone or iPad.
 
 Install themes, tweaks, and apps not available in the App Store.
 
-## Safer Approach
+### Safer Approach
 
 Uses a semi-jailbreak method without heavy system modifications.
 
@@ -96,20 +96,20 @@ Uses a semi-jailbreak method without heavy system modifications.
 
 Darksword follows a non-invasive customization method compared to traditional root-level jailbreaks.
 
-## Recommendations
+### Recommendations
 
 - Use trusted Sword files only
 - Follow official installation steps
 - Keep a backup of your device
 - Avoid unknown sources
 
-# Disclaimer
+### Disclaimer
 
 This project is intended for educational and customization purposes only.
 
 Use at your own risk. The developers are not responsible for device issues, data loss, or misuse of the software.
 
-# Final Thoughts
+### Final Thoughts
 
 Darksword provides a modern and simple way to customize iOS 26 devices without the complexity of traditional jailbreaks.
 
