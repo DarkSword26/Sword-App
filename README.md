@@ -6,7 +6,6 @@ Darksword allows users to install jailbreak apps, tweaks, themes, and customizat
 
 Unlike traditional jailbreaks, Darksword uses a profile-based method, making it easier and safer for many users.
 
----
 
 # Features
 
@@ -18,15 +17,11 @@ Unlike traditional jailbreaks, Darksword uses a profile-based method, making it 
 - 💻 No PC required
 - 📦 Install third-party jailbreak apps and tweaks
 
----
-
 # Supported Versions
 
 - iOS 26 – iOS 26.5
 - iPhone and iPad devices
 - Optimized for newer iOS builds
-
----
 
 # Installation Guide
 
@@ -40,8 +35,6 @@ Unlike traditional jailbreaks, Darksword uses a profile-based method, making it 
 
 After installation, the Darksword app will appear on your device.
 
----
-
 ## Step 2 — Download Sword Files
 
 Darksword uses special **Sword (.⚔️) files** to enable apps, tweaks, and customization tools.
@@ -53,8 +46,6 @@ Darksword uses special **Sword (.⚔️) files** to enable apps, tweaks, and cus
 3. Save them to the Files app
 
 These files work like packages for jailbreak apps and tweaks.
-
----
 
 ## Step 3 — Run or Install Apps
 
@@ -69,7 +60,6 @@ You can:
 
 This allows users to test apps before full installation.
 
----
 
 # What You Can Do
 
@@ -79,8 +69,6 @@ With Darksword, you can:
 - Apply themes and UI customizations
 - Access tweaks and system tools
 - Customize iOS without deep system modification
-
----
 
 # Why Choose Darksword?
 
@@ -100,8 +88,6 @@ Install themes, tweaks, and apps not available in the App Store.
 
 Uses a semi-jailbreak method without heavy system modifications.
 
----
-
 # Safety Information
 
 Darksword follows a non-invasive customization method compared to traditional root-level jailbreaks.
@@ -113,15 +99,11 @@ Darksword follows a non-invasive customization method compared to traditional ro
 - Keep a backup of your device
 - Avoid unknown sources
 
----
-
 # Disclaimer
 
 This project is intended for educational and customization purposes only.
 
 Use at your own risk. The developers are not responsible for device issues, data loss, or misuse of the software.
-
----
 
 # Final Thoughts
 
