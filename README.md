@@ -45,7 +45,7 @@ Darksword uses special **Sword (.⚔️) files** to enable apps, tweaks, and cus
 
 ### Instructions
 
-1. Visit the official Sword files source
+1. Visit the official Sword files source (https://app.darksword.org/swords/)
 2. Download the required Sword files
 3. Save them to the Files app
 
